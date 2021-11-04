@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Leeuwerik;Dorine;;;
+FN: Dorine Leeuwerik 
+ORG:Control Union;
+TITLE:Business Development Associate & Program Coordinator\nPlastic Certifications & Carbon Services
+EMAIL;type=INTERNET;type=WORK;type=pref:dleeuwerik@controlunion.com
+TEL;type=WORK;type=VOICE:+31682134601
+item1.ADR;type=WORK;type=pref:;;Meeuwenlaan 4-6\n8011BZ Zwolle;;;Netherlands
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://certifications.controlunion.com/en
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
